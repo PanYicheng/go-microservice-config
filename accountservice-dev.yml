@@ -1,5 +1,5 @@
 server_port: 6767
-server_name: Accountservice DEV
+server_name: Accountservice DEV modified
 the_password: '{cipher}AQAoFDiXDi4xbzO65/IzgDHbPGkrBjDWClw3xltanE8xRkeFlkmVvqB1ZTSsXb1sL51TCDsQ0WHtXlnf3cavqZlbCWn2czsPn3inNg6skA5qGAaz2crROf36eWxw1oCFvV5Gk68ir0PYn63JZPQokyqATaToqkg1qsogipia2nPMHqrcZ9xnYdYJcbAPj33bxlyQ5w8jFkb+wP9heFIBcL0v5akuvpfMKl7/9oL8Yyg4Q5/OOx4AfOyoDNlI0T/plkHYtGlAIsVIH7wi4hatgsaTO0cqI1q/QJtDka9C+1x2xZBMxr1345/Dn5+iUMi7pGgNUAPDWrku02GPueNbPGIn00xr4zOUO1bOdO+VmUbhbaB5dYC5PS0YqyflQlSP/466iUk7zKls8Vq4mvIZcJwq' 
 amqp_server_url: amqp://guest:guest@10.0.5.138:5672 
 config_event_bus: springCloudBus
